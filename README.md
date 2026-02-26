@@ -37,9 +37,13 @@ The analyzed results are presented through **interactive visualizations** and a 
 
 Aspect-Based-Sentiment-Analysis-Covid19/
 ├── frontend/        # React + Vite frontend (deployed on Vercel)
+
 ├── notebooks/       # Jupyter notebooks for NLP processing & model experiments
+
 ├── datasets/        # COVID-19 Twitter CSV datasets used for analysis
+
 ├── README.md        # Project documentation
+
 └── .gitignore       # Git ignore configuration
 
 ---
