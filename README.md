@@ -72,8 +72,3 @@ https://absa-ten.vercel.app/
 - Modular and scalable project structure  
 
 ---
-
-##  Academic Relevance
-This project demonstrates practical application of **Natural Language Processing, Machine Learning, data visualization, and frontend deployment**, making it suitable for **final-year academic submission**, **project demonstrations**, and **placement interviews**.
-
----
