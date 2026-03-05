@@ -1,0 +1,19 @@
+.tableau-wrapper {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;       
+  border-radius: 16px;
+  background: white;
+  position: relative;
+}
+
+
+.tableau-iframe {
+  width: 100%;
+  height: calc(100% + 80px); 
+  border: none;
+
+  position: relative;
+  top: -80px;               
+  transform-origin: top left;
+}
