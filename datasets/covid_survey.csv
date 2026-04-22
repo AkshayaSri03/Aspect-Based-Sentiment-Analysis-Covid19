@@ -1,0 +1,51 @@
+Response_ID,Aspect,Sentiment,Short Response Text
+1,Vaccine,Positive,"Got vaccinated last month, feeling much safer now."
+2,Hospital,Negative,Hospitals were overcrowded and hard to access during peak time.
+3,Lockdown,Neutral,Lockdown helped control spread but affected daily routine.
+4,Government,Positive,Government handled vaccine rollout quite efficiently.
+5,Economy,Negative,"Lost my job due to lockdown, financial situation became difficult."
+6,Vaccine,Neutral,Still unsure about long-term effects of vaccines.
+7,Hospital,Positive,Doctors and staff were very supportive during treatment.
+8,Lockdown,Negative,Lockdown caused a lot of stress and isolation.
+9,Government,Negative,"Policies kept changing, it was confusing for everyone."
+10,Economy,Neutral,Economy slowed down but seems to be recovering slowly.
+11,Vaccine,Positive,Vaccination process was smooth and well organized.
+12,Hospital,Negative,Waiting time was too long in emergency situations.
+13,Lockdown,Positive,Helped reduce infection rates significantly.
+14,Government,Neutral,"Some decisions were good, others could have been better."
+15,Economy,Negative,Small businesses suffered a lot during pandemic.
+16,Vaccine,Negative,Experienced mild side effects after vaccination.
+17,Hospital,Neutral,Services were okay but could improve in emergencies.
+18,Lockdown,Negative,Mental health got affected due to staying indoors.
+19,Government,Positive,Timely updates and guidelines were helpful.
+20,Economy,Positive,Digital businesses grew rapidly during COVID.
+21,Vaccine,Positive,Encouraged my family to get vaccinated too.
+22,Hospital,Positive,Facilities improved compared to first wave.
+23,Lockdown,Neutral,"Mixed impact, safety improved but lifestyle affected."
+24,Government,Negative,Lack of proper planning during second wave.
+25,Economy,Negative,Salary cuts impacted many households.
+26,Vaccine,Neutral,Took vaccine but still cautious about exposure.
+27,Hospital,Negative,Lack of oxygen supply was alarming.
+28,Lockdown,Positive,Environment improved due to reduced pollution.
+29,Government,Positive,Free vaccine initiative was a great step.
+30,Economy,Neutral,Some sectors recovered faster than others.
+31,Vaccine,Negative,Vaccine hesitancy still exists among many people.
+32,Hospital,Positive,Healthcare workers did an incredible job.
+33,Lockdown,Negative,Business closures caused huge losses.
+34,Government,Neutral,Response varied across different states.
+35,Economy,Positive,Online work opportunities increased.
+36,Vaccine,Positive,Booster dose increased my confidence.
+37,Hospital,Neutral,Infrastructure improved but still needs work.
+38,Lockdown,Positive,Helped flatten the curve initially.
+39,Government,Negative,Communication gaps created panic.
+40,Economy,Negative,Inflation increased after pandemic.
+41,Vaccine,Neutral,Vaccines are useful but not a complete solution.
+42,Hospital,Negative,Rural areas lacked proper healthcare facilities.
+43,Lockdown,Neutral,Balanced effect on health and economy.
+44,Government,Positive,Quick action during first wave was appreciated.
+45,Economy,Positive,E-commerce platforms saw massive growth.
+46,Vaccine,Positive,"No major side effects, felt normal after dose."
+47,Hospital,Positive,Emergency services responded quickly in my case.
+48,Lockdown,Negative,Students suffered due to online classes.
+49,Government,Neutral,"Some initiatives worked, some didn’t."
+50,Economy,Negative,Many industries are still struggling to recover.
